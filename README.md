@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on LLM
 - 📫 To reach me Contact Via
-- 1. Instagram : 
+- 1. Instagram : mr.workoholic_15
   2. Email: work.ayush2k6@gmail.com
 
 <!---
