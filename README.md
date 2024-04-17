@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on LLM
 - 📫 To reach, Contact me Via
-- 1. Instagram: mr.devgenius
+- 1. Instagram: [@mr.devgenius]
+                (https://www.instagram.com/mr.devgenius/)
   2. Email: work.ayush2k6@gmail.com
 
 <!---
